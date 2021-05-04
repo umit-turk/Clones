@@ -1,5 +1,5 @@
 # Getting Started with Create React App
- I created my project with bootstrap then I added to bootstrap link  also fontAwesome in index.html.
+ I created my project with reactjs, redux, react-router, bootstrap.This project is training and tutorial for me and just I wanted to try to improve my react knowladge.I used some documents during to work especially reactjs official webpage, MDN, Javascriptinfo stack overflow and so on.I try to explain how to develop my project.
 
  1) I created Navbar  as a function component then put the bootstrap codes inside of navbar JSX structure.After that I created Footer.js with bootstrap and arranged the templates.
  
